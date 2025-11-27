@@ -10,7 +10,7 @@ The website contains multiple pages, each handled by a different team member. Th
 - **Home** – Pranitha  
   Includes: Navigation header, profile section, and an intro video.
 
-- **About Us** – Vimala  
+- **About Us** – Vimal
   Includes: Team images and short descriptive.
 
 - **Skills** – Surendar  
